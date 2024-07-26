@@ -1,7 +1,7 @@
-import NavBar from "./components/NavBar";
-import Slider from "./components/Slider";
-import HeroSection from "./components/HeroSection";
-import Footer from "./components/Footer";
+import NavBar from "./components/NavBar/NavBar";
+import Slider from "./components/Slider/Slider";
+import HeroSection from "./components/HeroSection/HeroSection";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
